@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roxanne Nicolas @aR-Dee-eN
 - 🌱 I’m currently learning Business Analytics through Udacity's Nanodegree Program,
-     aspiring to getting my feet wet in Tech pool!
+     aspiring to getting my feet wet in the Tech pool!
 - 📫 You may reach me at roxanned.nicolas@gmail.com
 
 <!---
